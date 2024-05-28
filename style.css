@@ -1,0 +1,138 @@
+.headerclass {
+    text-align: center;
+    background-color: bisque;
+    margin: 50px;
+    padding: 50px;
+
+    
+    
+}
+span {
+    background-color: black;
+    color: aliceblue;
+}
+.div2 span {
+    color: grey;
+    background-color: white;
+}
+.div4 span {
+    background-color: rgb(183, 179, 179);
+}
+.div_main {
+    background-color: rgb(232, 241, 241);
+    padding: 25px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    width:65%;
+    height: 100%;
+
+}
+.conteiner1 {
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    margin: 25px;
+    box-shadow: 0 0 10px rgba(4, 1, 1, 0.5);
+
+     
+   
+}
+.conteiner2 {
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    margin: 25px;
+    box-shadow: 0 0 10px rgba(4, 1, 1, 0.5); 
+    
+}
+.divButton1 {
+    display: flex;
+    justify-content: space-between;
+}
+.divButton2 {
+    display: flex;
+    justify-content: space-between;
+}
+.div_main2 {
+    background-color: rgb(232, 241, 241);
+    display: flex;
+    padding: auto;
+    margin: 25px;
+    box-shadow: 0 0 10px rgba(4, 1, 1, 0.5); 
+    flex-direction: column;
+    width:25%;
+    height: 100%;
+
+    
+}
+.conteiner3 {
+    background-color: rgb(241, 245, 245);
+    display: flex;
+    padding: auto;
+    margin: 25px;
+    box-shadow: 0 0 10px rgba(4, 1, 1, 0.5); 
+    flex-direction: column;
+    width: auto;
+
+}
+.divName {
+    padding: 10px;
+   
+}
+.divlorem1 {
+    padding: 10px;
+}
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.div_footer {
+    background-color: rgb(35, 33, 33);
+    display: flex;
+    width: auto;
+    padding: 80px;
+    margin: auto;
+    
+}
+.conteiner4 {
+    display: flex;
+    padding: auto;
+    margin: 25px;
+    box-shadow: 0 0 10px rgba(4, 1, 1, 0.5); 
+    flex-direction: column;
+    width: auto
+
+    
+
+}
+.div_tag {
+    background-color: rgb(233, 220, 220);
+    display: flex;
+    font-size: 25px;
+    height: 75px;
+    
+    
+
+}
+.divtrave p span {
+    background-color: rgb(233, 220, 220);
+    color: grey;
+    }
+.div_popular {
+    background-color: rgb(233, 220, 220);
+    display: flex;
+    font-size: 25px;
+    height: 75px;
+    
+
+}
+
+
+
+
+
+    
+
+
